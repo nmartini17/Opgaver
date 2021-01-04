@@ -1,0 +1,4 @@
+Obs;Make;Model;Type;Origin;DriveTrain;MSRP;Invoice;EngineSize;Cylinders;Horsepower;MPG_City;MPG_Highway;Weight;Wheelbase;Length
+1;Acura;MDX;SUV;Asia;All;$36,945;$33,337;3.5;6;265;17;23;4451;106;189
+2;Audi;A7;SUV;Asia;All;$36,945;$33,337;3.5;12;700;17;23;4451;106;210
+3;BMW;X5;SUV;Germany;All;$36,945;$33,337;3.5;8;560;17;23;4451;106;200
