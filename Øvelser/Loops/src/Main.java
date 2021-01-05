@@ -15,6 +15,8 @@ public class Main {
 
         }
         */
+
+        int i = diller();
     }
 
     public static void strings(){
@@ -27,4 +29,9 @@ public class Main {
             System.out.println("Forskellige");
 
     }
+
+    public static int diller() {
+        return 2;
+    }
+
 }
